@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="root [file:/C:/Program%20Files%20(x86)/scala/Vamsi%20Scala/Learning-Scala2/Classes%20and%20Constructors/]" external.linked.project.path="$MODULE_DIR$/../../Classes and Constructors" external.root.project.path="$MODULE_DIR$/../../Classes and Constructors" external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_18">
+    <output url="file://$MODULE_DIR$/../../Classes and Constructors/target/scala-2.13/classes" />
+    <output-test url="file://$MODULE_DIR$/../../Classes and Constructors/target/scala-2.13/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../Classes and Constructors">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes and Constructors/src/main/scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes and Constructors/src/test/scala" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Classes and Constructors/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Classes and Constructors/project/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.13.8:jar" level="project" />
+  </component>
+</module>
